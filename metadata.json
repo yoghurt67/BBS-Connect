@@ -1,0 +1,6 @@
+{
+  "name": "BBS Connect",
+  "description": "Bina Bangsa School student connection portal featuring class announcements, subjects, schedule & events, chat communication, and student profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
